@@ -1,0 +1,18 @@
+# macOS
+#
+.DS_Store
+
+# Studio
+#
+*.Rhistory
+*.RData
+*.RDataTmp
+*.Rproj
+*.Rproj.user
+
+# testing
+#
+**/data
+**/output
+**/plots
+.Rproj.user
